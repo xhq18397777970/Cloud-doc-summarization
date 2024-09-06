@@ -1,1 +1,3 @@
-一个简单的基于Go语言Gin框架的后端API，用于备忘录
+A highly available cloud document summary web cluster that can store documents in the cloud, summarize cloud documents (supports: images, PDF, audio, word), and generate natural language summaries and mind maps
+
+python web api：flask+celery+redis；GLM-4-9B（multimodal model）、whisper（audio model）
